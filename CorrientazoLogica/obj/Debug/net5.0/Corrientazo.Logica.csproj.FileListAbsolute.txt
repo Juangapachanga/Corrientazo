@@ -1,0 +1,17 @@
+D:\VDGD\Aprender\S4N_Test\Corrientazo\CorrientazoLogica\bin\Debug\net5.0\Corrientazo.Logica.deps.json
+D:\VDGD\Aprender\S4N_Test\Corrientazo\CorrientazoLogica\bin\Debug\net5.0\Corrientazo.Logica.dll
+D:\VDGD\Aprender\S4N_Test\Corrientazo\CorrientazoLogica\bin\Debug\net5.0\ref\Corrientazo.Logica.dll
+D:\VDGD\Aprender\S4N_Test\Corrientazo\CorrientazoLogica\bin\Debug\net5.0\Corrientazo.Logica.pdb
+D:\VDGD\Aprender\S4N_Test\Corrientazo\CorrientazoLogica\bin\Debug\net5.0\Corrientazo.Componentes.dll
+D:\VDGD\Aprender\S4N_Test\Corrientazo\CorrientazoLogica\bin\Debug\net5.0\Corrientazo.Data.dll
+D:\VDGD\Aprender\S4N_Test\Corrientazo\CorrientazoLogica\bin\Debug\net5.0\Corrientazo.Componentes.pdb
+D:\VDGD\Aprender\S4N_Test\Corrientazo\CorrientazoLogica\bin\Debug\net5.0\Corrientazo.Data.pdb
+D:\VDGD\Aprender\S4N_Test\Corrientazo\CorrientazoLogica\obj\Debug\net5.0\Corrientazo.Logica.GeneratedMSBuildEditorConfig.editorconfig
+D:\VDGD\Aprender\S4N_Test\Corrientazo\CorrientazoLogica\obj\Debug\net5.0\Corrientazo.Logica.AssemblyInfoInputs.cache
+D:\VDGD\Aprender\S4N_Test\Corrientazo\CorrientazoLogica\obj\Debug\net5.0\Corrientazo.Logica.AssemblyInfo.cs
+D:\VDGD\Aprender\S4N_Test\Corrientazo\CorrientazoLogica\obj\Debug\net5.0\Corrientazo.Logica.csproj.CoreCompileInputs.cache
+D:\VDGD\Aprender\S4N_Test\Corrientazo\CorrientazoLogica\obj\Debug\net5.0\Corrientazo.Logica.csproj.CopyComplete
+D:\VDGD\Aprender\S4N_Test\Corrientazo\CorrientazoLogica\obj\Debug\net5.0\Corrientazo.Logica.dll
+D:\VDGD\Aprender\S4N_Test\Corrientazo\CorrientazoLogica\obj\Debug\net5.0\ref\Corrientazo.Logica.dll
+D:\VDGD\Aprender\S4N_Test\Corrientazo\CorrientazoLogica\obj\Debug\net5.0\Corrientazo.Logica.pdb
+D:\VDGD\Aprender\S4N_Test\Corrientazo\CorrientazoLogica\obj\Debug\net5.0\Corrientazo.Logica.csprojAssemblyReference.cache

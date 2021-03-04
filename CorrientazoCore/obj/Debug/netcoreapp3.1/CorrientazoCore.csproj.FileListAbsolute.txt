@@ -1,0 +1,9 @@
+D:\VDGD\Aprender\S4N_Test\CorrientazoCore\bin\Debug\netcoreapp3.1\CorrientazoCore.deps.json
+D:\VDGD\Aprender\S4N_Test\CorrientazoCore\bin\Debug\netcoreapp3.1\CorrientazoCore.dll
+D:\VDGD\Aprender\S4N_Test\CorrientazoCore\bin\Debug\netcoreapp3.1\CorrientazoCore.pdb
+D:\VDGD\Aprender\S4N_Test\CorrientazoCore\obj\Debug\netcoreapp3.1\CorrientazoCore.csprojAssemblyReference.cache
+D:\VDGD\Aprender\S4N_Test\CorrientazoCore\obj\Debug\netcoreapp3.1\CorrientazoCore.AssemblyInfoInputs.cache
+D:\VDGD\Aprender\S4N_Test\CorrientazoCore\obj\Debug\netcoreapp3.1\CorrientazoCore.AssemblyInfo.cs
+D:\VDGD\Aprender\S4N_Test\CorrientazoCore\obj\Debug\netcoreapp3.1\CorrientazoCore.csproj.CoreCompileInputs.cache
+D:\VDGD\Aprender\S4N_Test\CorrientazoCore\obj\Debug\netcoreapp3.1\CorrientazoCore.dll
+D:\VDGD\Aprender\S4N_Test\CorrientazoCore\obj\Debug\netcoreapp3.1\CorrientazoCore.pdb

@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Corrientazo.Logica/1.0.0": {
+        "dependencies": {
+          "Corrientazo.Componentes": "1.0.0",
+          "Corrientazo.Data": "1.0.0"
+        },
+        "runtime": {
+          "Corrientazo.Logica.dll": {}
+        }
+      },
+      "Corrientazo.Componentes/1.0.0": {
+        "runtime": {
+          "Corrientazo.Componentes.dll": {}
+        }
+      },
+      "Corrientazo.Data/1.0.0": {
+        "runtime": {
+          "Corrientazo.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Corrientazo.Logica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Corrientazo.Componentes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Corrientazo.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

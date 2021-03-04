@@ -1,0 +1,3 @@
+D:\VDGD\Aprender\S4N_Test\CorrientazoConsola\obj\Debug\netcoreapp3.1\Corrientazo.Consola.AssemblyInfoInputs.cache
+D:\VDGD\Aprender\S4N_Test\CorrientazoConsola\obj\Debug\netcoreapp3.1\Corrientazo.Consola.AssemblyInfo.cs
+D:\VDGD\Aprender\S4N_Test\CorrientazoConsola\obj\Debug\netcoreapp3.1\Corrientazo.Consola.csproj.CoreCompileInputs.cache

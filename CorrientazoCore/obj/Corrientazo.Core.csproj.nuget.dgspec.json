@@ -1,0 +1,251 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\VDGD\\Aprender\\S4N_Test\\Corrientazo\\CorrientazoCore\\Corrientazo.Core.csproj": {}
+  },
+  "projects": {
+    "D:\\VDGD\\Aprender\\S4N_Test\\Corrientazo\\CorrientazoComponentes\\Corrientazo.Componentes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VDGD\\Aprender\\S4N_Test\\Corrientazo\\CorrientazoComponentes\\Corrientazo.Componentes.csproj",
+        "projectName": "Corrientazo.Componentes",
+        "projectPath": "D:\\VDGD\\Aprender\\S4N_Test\\Corrientazo\\CorrientazoComponentes\\Corrientazo.Componentes.csproj",
+        "packagesPath": "C:\\Users\\Juan Gabriel\\.nuget\\packages\\",
+        "outputPath": "D:\\VDGD\\Aprender\\S4N_Test\\Corrientazo\\CorrientazoComponentes\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Juan Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\VDGD\\Aprender\\S4N_Test\\Corrientazo\\CorrientazoCore\\Corrientazo.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VDGD\\Aprender\\S4N_Test\\Corrientazo\\CorrientazoCore\\Corrientazo.Core.csproj",
+        "projectName": "Corrientazo.Core",
+        "projectPath": "D:\\VDGD\\Aprender\\S4N_Test\\Corrientazo\\CorrientazoCore\\Corrientazo.Core.csproj",
+        "packagesPath": "C:\\Users\\Juan Gabriel\\.nuget\\packages\\",
+        "outputPath": "D:\\VDGD\\Aprender\\S4N_Test\\Corrientazo\\CorrientazoCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Juan Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\VDGD\\Aprender\\S4N_Test\\Corrientazo\\CorrientazoLogica\\Corrientazo.Logica.csproj": {
+                "projectPath": "D:\\VDGD\\Aprender\\S4N_Test\\Corrientazo\\CorrientazoLogica\\Corrientazo.Logica.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\VDGD\\Aprender\\S4N_Test\\Corrientazo\\CorrientazoData\\Corrientazo.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VDGD\\Aprender\\S4N_Test\\Corrientazo\\CorrientazoData\\Corrientazo.Data.csproj",
+        "projectName": "Corrientazo.Data",
+        "projectPath": "D:\\VDGD\\Aprender\\S4N_Test\\Corrientazo\\CorrientazoData\\Corrientazo.Data.csproj",
+        "packagesPath": "C:\\Users\\Juan Gabriel\\.nuget\\packages\\",
+        "outputPath": "D:\\VDGD\\Aprender\\S4N_Test\\Corrientazo\\CorrientazoData\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Juan Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\VDGD\\Aprender\\S4N_Test\\Corrientazo\\CorrientazoLogica\\Corrientazo.Logica.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VDGD\\Aprender\\S4N_Test\\Corrientazo\\CorrientazoLogica\\Corrientazo.Logica.csproj",
+        "projectName": "Corrientazo.Logica",
+        "projectPath": "D:\\VDGD\\Aprender\\S4N_Test\\Corrientazo\\CorrientazoLogica\\Corrientazo.Logica.csproj",
+        "packagesPath": "C:\\Users\\Juan Gabriel\\.nuget\\packages\\",
+        "outputPath": "D:\\VDGD\\Aprender\\S4N_Test\\Corrientazo\\CorrientazoLogica\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Juan Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\VDGD\\Aprender\\S4N_Test\\Corrientazo\\CorrientazoComponentes\\Corrientazo.Componentes.csproj": {
+                "projectPath": "D:\\VDGD\\Aprender\\S4N_Test\\Corrientazo\\CorrientazoComponentes\\Corrientazo.Componentes.csproj"
+              },
+              "D:\\VDGD\\Aprender\\S4N_Test\\Corrientazo\\CorrientazoData\\Corrientazo.Data.csproj": {
+                "projectPath": "D:\\VDGD\\Aprender\\S4N_Test\\Corrientazo\\CorrientazoData\\Corrientazo.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

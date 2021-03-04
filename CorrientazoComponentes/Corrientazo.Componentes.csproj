@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="RDD.SalesTracker.Component\**" />
+    <EmbeddedResource Remove="RDD.SalesTracker.Component\**" />
+    <None Remove="RDD.SalesTracker.Component\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="ImportarExportar\ExportField.cs" />
+    <Compile Remove="ImportarExportar\ExportFieldCollection.cs" />
+    <Compile Remove="ImportarExportar\FieldMapping.cs" />
+    <Compile Remove="ImportarExportar\FieldMappingCollection.cs" />
+    <Compile Remove="ImportarExportar\Implementacion\CSVRecordExporter.cs" />
+    <Compile Remove="ImportarExportar\ImportField.cs" />
+    <Compile Remove="ImportarExportar\ImportFieldCollection.cs" />
+    <Compile Remove="ImportarExportar\RecordConverter.cs" />
+  </ItemGroup>
+
+</Project>

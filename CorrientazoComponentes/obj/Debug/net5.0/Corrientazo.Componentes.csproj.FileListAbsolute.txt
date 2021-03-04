@@ -1,0 +1,11 @@
+D:\VDGD\Aprender\S4N_Test\Corrientazo\CorrientazoComponentes\bin\Debug\net5.0\Corrientazo.Componentes.deps.json
+D:\VDGD\Aprender\S4N_Test\Corrientazo\CorrientazoComponentes\bin\Debug\net5.0\Corrientazo.Componentes.dll
+D:\VDGD\Aprender\S4N_Test\Corrientazo\CorrientazoComponentes\bin\Debug\net5.0\ref\Corrientazo.Componentes.dll
+D:\VDGD\Aprender\S4N_Test\Corrientazo\CorrientazoComponentes\bin\Debug\net5.0\Corrientazo.Componentes.pdb
+D:\VDGD\Aprender\S4N_Test\Corrientazo\CorrientazoComponentes\obj\Debug\net5.0\Corrientazo.Componentes.GeneratedMSBuildEditorConfig.editorconfig
+D:\VDGD\Aprender\S4N_Test\Corrientazo\CorrientazoComponentes\obj\Debug\net5.0\Corrientazo.Componentes.AssemblyInfoInputs.cache
+D:\VDGD\Aprender\S4N_Test\Corrientazo\CorrientazoComponentes\obj\Debug\net5.0\Corrientazo.Componentes.AssemblyInfo.cs
+D:\VDGD\Aprender\S4N_Test\Corrientazo\CorrientazoComponentes\obj\Debug\net5.0\Corrientazo.Componentes.csproj.CoreCompileInputs.cache
+D:\VDGD\Aprender\S4N_Test\Corrientazo\CorrientazoComponentes\obj\Debug\net5.0\Corrientazo.Componentes.dll
+D:\VDGD\Aprender\S4N_Test\Corrientazo\CorrientazoComponentes\obj\Debug\net5.0\ref\Corrientazo.Componentes.dll
+D:\VDGD\Aprender\S4N_Test\Corrientazo\CorrientazoComponentes\obj\Debug\net5.0\Corrientazo.Componentes.pdb
